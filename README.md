@@ -5,7 +5,10 @@
 Eureka_social_implict</font></H1>
 
 ## 본 Repository
-#### 탐지 된 객체에 대한 경로 예측
+#### 탐지 된 객체에 대한 경로 예측  
+- Forked by
+https://github.com/abduallahmohamed/Social-Implicit.git
+
 ###### 탐지 객체
 - person, forklift
 
