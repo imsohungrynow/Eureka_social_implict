@@ -76,7 +76,7 @@ Align.ipynb
 ```
 In order to generate a suitable visualization pkls aligning the raw outputs of the models. Aftewards, 
 you can visualize everything using either the zoomed or the aspect ratio constarined visualization notebooks. 
-- 모델의 원시 출력들을 정렬하는 적절한 시각화 pkls를 생성 & 시각화
+- 모델의 원 출력들을 정렬하는 적절한 시각화 pkls를 생성 & 시각화
 ```
 Visualize.ipynb
 VisualizeZoomed.ipynb
